@@ -1,4 +1,4 @@
-# UDEMY-Tum_Detaylariyle_Python_Programlama-Egitimi_Kodlari
+#  UDEMY-Tüm Detaylariyle "Python Programlama" Egitimi Kodlari
 Bu .ZİP içerisinden UDEMY-Tüm Detaylariyle "Python Programlama" Egitimime Ait Video Derslerde Kullandiğimiz Kodlara Erişebilirsiniz.
 
 Eğitime Aşşağıdaki Bilgiler ile erişebilirsiniz:
